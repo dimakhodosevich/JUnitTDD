@@ -2,6 +2,7 @@ package by.itstep.khodosevich.lesson4;
 
 import org.junit.Test;
 
+
 import java.io.IOException;
 
 import static org.junit.Assert.assertNotEquals;
@@ -29,6 +30,7 @@ public class FileCreatorTest {
 
     @Test
     public void testByAssertJ(){
+
         //AssertJ - нету dependency
     }
 }
